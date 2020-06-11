@@ -1,4 +1,5 @@
 # Introducción a git
+Cambios hechos por Hugo Pipino
 
 Este repo esta dedicado a un curso introductorio de git.
 
